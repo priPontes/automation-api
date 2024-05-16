@@ -1,0 +1,10 @@
+node_modules
+logs
+cypress/reports
+cypress/reportsmocha
+cypress/cucumber-json
+cypress/document-report
+cypress/screenshots
+cypress/videos
+public
+index.json
